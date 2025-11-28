@@ -1,0 +1,5 @@
+{
+  "name": "Agenticus",
+  "description": "An interactive visualization and decision support tool for neurotransmitters and hormones, featuring a D3-based taxonomy tree.",
+  "requestFramePermissions": []
+}
